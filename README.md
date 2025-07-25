@@ -23,7 +23,15 @@ I'm a Computer Science undergrad, passionate about web development, problem-solv
 
 ---
 
-### Communities/Clubs/Organizations: 
+## 🌟 Open Source Contributions
+
+- 🚀 Contributor at [GirlScript Summer of Code 2025](https://gssoc.girlscript.tech/)
+  - ![GSSoC '25 Badge](assets/Contributor_badge.jpg)
+  - Actively contributing to open source projects during the 3-month program
+
+--- 
+
+## Communities/Clubs/Organizations: 
 
 <a href="https://srm.edu.in" target="blank" alt="SRM_University">
   <img src="https://img.shields.io/badge/Tech%20Member-Alexa%20Developers%20SRM-blue?style=for-the-badge" align="center">
