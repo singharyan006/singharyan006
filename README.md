@@ -26,8 +26,10 @@ I'm a Computer Science undergrad, passionate about web development, problem-solv
 ## 🌟 Open Source Contributions
 
 - 🚀 Contributor at [GirlScript Summer of Code 2025](https://gssoc.girlscript.tech/)
-  - ![GSSoC '25 Badge](assets/Contributor_badge.jpg)
-  - Actively contributing to open source projects during the 3-month program
+
+- ![GSSoC '25 Badge](assets/Contributor_badge.jpg)
+
+- Actively contributing to open source projects during the 3-month program
 
 --- 
 
