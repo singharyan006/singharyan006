@@ -33,6 +33,9 @@ I'm a Computer Science undergrad, passionate about web development, problem-solv
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharyan006&theme=dark" />
 </div>
 
+|🔥 Contribution Streak|
+|---------------------|
+|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singharyan006&theme=tokyonight&hide_border=true)|
 ---
 
 ## 🌟 Open Source Contributions
@@ -159,15 +162,6 @@ I'm a Computer Science undergrad, passionate about web development, problem-solv
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-|💻 Most Used Languages|🔥 Contribution Streak|
-|---------------------|----------------------|
-|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singharyan006&layout=compact&theme=tokyonight)|![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singharyan006&theme=tokyonight&hide_border=true)|
-|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singharyan006&show_icons=true&theme=tokyonight)||
 
 ---
 
