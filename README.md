@@ -23,6 +23,18 @@ I'm a Computer Science undergrad, passionate about web development, problem-solv
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singharyan006&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singharyan006&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singharyan006&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singharyan006&theme=dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharyan006&theme=dark" />
+</div>
+
+---
+
 ## 🌟 Open Source Contributions
 
 - 🚀 Contributor at [GirlScript Summer of Code 2025](https://gssoc.girlscript.tech/)
