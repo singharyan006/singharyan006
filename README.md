@@ -36,10 +36,11 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes and occasional
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singharyan006&theme=dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharyan006&theme=dark" />
 </div>
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=singharyan006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
----
+</div>
+
+
 
 ## 🌟 Open Source Contributions
 
