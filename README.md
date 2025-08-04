@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Aryan Singh!
+<img src="https://komarev.com/ghpvc/?username=singharyan006&color=blue&style=for-the-badge" alt="Profile Views Counter">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&vCenter=true&lines=Web+Dev+%26+CS+Enthusiast;Building+cool+stuff+with+code;Always+curious%2C+always+creating)](https://git.io/typing-svg)
 
@@ -169,10 +170,6 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes and occasional
 
 ---
 
-<div align="center">
-  <h3>👀 Profile Visitors</h3>
-  <img src="https://komarev.com/ghpvc/?username=singharyan006&color=blueviolet&style=for-the-badge" alt="Profile Views Counter">
-</div>
 
 <p align="center">
   <i>🚀 Let's create something awesome together!(or maybe bombsome💀) </i>
