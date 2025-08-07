@@ -7,12 +7,11 @@ I’m a CS undergrad who currently builds web apps, solves problems, and secretl
 
 Designing slick interfaces? Check. Writing code that works on the first try? Well, let’s not get ahead of ourselves. Breaking production and fixing it before anyone notices? That’s my cardio🤧.
 
-When I’m not coding, I’m exploring cybersecurity rabbit holes and occasionally arguing with Git (spoiler: Git always wins). If it’s on the web, you can bet I’m either building it, breaking it, or both!
-
+When I’m not coding, I’m exploring cybersecurity rabbit holes and occasionally arguing with Git (spoiler: Git always wins😂). If it’s on the web, you can bet I’m either building it, breaking it, or both😎!
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
 </p>
 
 ---
