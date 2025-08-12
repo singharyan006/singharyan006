@@ -11,13 +11,6 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes and occasional
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=singharyan006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-
----
-
 ## 🧠 About Me
 
 - 💻 Currently diving deep into **Full-Stack Web Development** with [The Odin Project](https://www.theodinproject.com/)
@@ -42,7 +35,7 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes and occasional
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=singharyan006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-
+---
 
 ## 🌟 Open Source Contributions
 
