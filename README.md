@@ -11,9 +11,10 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes and occasional
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=singharyan006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 
 ---
 
