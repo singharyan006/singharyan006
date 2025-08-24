@@ -58,11 +58,11 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes and occasional
 ## 🚀 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/singharyan006/cv-forge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singharyan006&repo=cv-forge&theme=tokyonight" />
+  </a>
   <a href="https://github.com/singharyan006/tic-tac-toe">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=singharyan006&repo=tic-tac-toe&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/singharyan006/algo-practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=singharyan006&repo=algo-practice&theme=tokyonight" />
   </a>
 </div>
 <div align="center">
