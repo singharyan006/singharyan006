@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aryan Singh!
 <img src="https://komarev.com/ghpvc/?username=singharyan006&color=blue&style=for-the-badge" alt="Profile Views Counter">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&vCenter=true&lines=HEHEHEHEHE;Web+Dev+%26+CS+Enthusiast;Building+cool+stuff+with+code;Always+curious%2C+always+creating)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&vCenter=true&lines=Open+Source+Contributor;Web+Dev+%26+CS+Enthusiast;Building+cool+stuff+with+code;Always+curious%2C+always+creating)](https://git.io/typing-svg)
 
 I’m a CS undergrad who currently builds web apps, solves problems, and secretly dreams in JavaScript. If it’s digital, I want to make it smoother, faster, and—let’s be honest—cooler.
 
