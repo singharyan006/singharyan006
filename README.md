@@ -22,18 +22,26 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes and occasional
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singharyan006&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singharyan006&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singharyan006&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singharyan006&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharyan006&theme=tokyonight&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=singharyan006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singharyan006&theme=highcontrast">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singharyan006&theme=highcontrast">
+<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singharyan006&theme=highcontrast"> -->
+<img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=singharyan006&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="top langs" /> 
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singharyan006&theme=highcontrast">
+<!-- <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharyan006&theme=highcontrast&utcOffset=24"> -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singharyan006&hide=HTML,css,scss,cmake,swift&layout=donut&theme=highcontrast&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=singharyan006&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false">
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=singharyan006&theme=highcontrast&hide_border=true">
+
+</div><br>
+<p align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=singharyan006&bg_color=000000&color=ffe066&line=ffd700&point=ff5722&area=true&area_color=222222&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
+
+<br/> 
+<hr />
 
 ---
 
