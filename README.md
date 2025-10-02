@@ -222,7 +222,7 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X/Twitter" height="30" width="40" style="margin-right:10px;"/>
   </a>
   <a href="https://discord.com/users/1286054885909073982" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original-wordmark.svg" alt="Discord" height="30" width="40"/>
+    <img align="center" src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" height="40" width="40"/>
   </a>
   <a href="mailto:aryanraisingh2006@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" style="margin-right:10px;"/>
@@ -230,7 +230,7 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
 </p>
 
 ---
-
 <p align="center">
-  <i>🚀 Let's create something awesome together!(or maybe bombsome💀) </i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&vCenter=true&lines=It%27s+a+privilege+to+be+tired%2C;It%27s+a+privilege+to+suffer%2C;It%27s+a+privilege+to+chase+something+hard%2C;It%27s+a+privilege+to+push+limits.;You+signed+up+for+this%2C+own+it." alt="Typing SVG" />
 </p>
+
