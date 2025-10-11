@@ -48,11 +48,13 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
 
 ## 🌟 Open Source Contributions
 
-- 🚀 Contributor at [GirlScript Summer of Code 2025](https://gssoc.girlscript.tech/)
-- Actively contributing to open source projects during the 3-month program
+- 👨‍💻 Currently contributing to open source through **[Hacktoberfest 2025](https://hacktoberfest.com/)**  
+- ✅ Successfully completed my term as a **Contributor** at [GirlScript Summer of Code 2025](https://gssoc.girlscript.tech/)
+ 
 <p>
   <img src="assets/Contributor_badge.jpg" alt="GSSoC '25 Badge" width="160" height="160">
 </p>
+
 
 --- 
 
