@@ -35,7 +35,7 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
 <!-- <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharyan006&theme=highcontrast&utcOffset=24"> -->
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singharyan006&hide=HTML,css,scss,cmake,swift&layout=donut&theme=highcontrast&hide_border=true" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=singharyan006&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false">
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=singharyan006&theme=highcontrast&hide_border=true">
+<img height="170em" src="https://nirzak-streak-stats.vercel.app/?user=singharyan006&theme=highcontrast&hide_border=true">
 
 </div><br>
 <p align="center">
