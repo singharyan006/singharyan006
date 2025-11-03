@@ -216,7 +216,7 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
 
 ## 📫 Connect with me
 
-<p align="left" style="gap: 15px; align-items: center;">
+<p align="center" style="gap: 50px; align-items: center;">
   <a href="https://www.linkedin.com/in/aryansingh006" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:10px;"/>
   </a>
