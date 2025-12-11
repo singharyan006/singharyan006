@@ -29,7 +29,7 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singharyan006&theme=highcontrast">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=singharyan006&theme=highcontrast">
-<!-- <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singharyan006&theme=highcontrast"> -->
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singharyan006&theme=highcontrast">
 <img height="160em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=singharyan006&hide=HTML,css,scss,cmake,swift&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&hide_border=true&exclude_repo=github-readme-stats" alt="top langs" /> 
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singharyan006&theme=highcontrast">
 <!-- <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singharyan006&theme=highcontrast&utcOffset=24"> -->
