@@ -61,7 +61,7 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
 ## Communities/Clubs/Organizations: 
 
 <a href="https://srm.edu.in" target="blank" alt="SRM_University">
-  <img src="https://img.shields.io/badge/Tech%20Member-Alexa%20Developers%20SRM-blue?style=for-the-badge" align="center">
+  <img src="https://img.shields.io/badge/Tech%20Executive-Alexa%20Developers%20SRM-blue?style=for-the-badge" align="center">
 </a>  
 
 ---
