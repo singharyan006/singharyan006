@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Aryan Singh!
+# Hi, I'm Aryan Singh!
 <img src="https://komarev.com/ghpvc/?username=singharyan006&color=blue&style=for-the-badge" alt="Profile Views Counter">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&vCenter=true&lines=Open+Source+Contributor;Web+Dev+%26+CS+Enthusiast;Building+cool+stuff+with+code;Always+curious%2C+always+creating)](https://git.io/typing-svg)
 
-I’m a CS undergrad who builds web apps, experiments with AI/ML, and secretly dreams in JavaScript. If it’s digital, I want to make it smoother, faster, and let’s be honest cooler.
+I’m a CS undergrad who builds web apps, experiments with AI/ML, and secretly dreams in JavaScript. If it’s digital, I want to make it smoother, faster, and—let’s be honest—cooler.
 
 Designing slick interfaces? Check. Writing code that works on the first try? Well… let’s not get ahead of ourselves. Breaking production and fixing it before anyone notices? That’s my cardio 🤧.
 
@@ -11,19 +11,19 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 💻 Currently diving deep into **Full-Stack Web Development** with [The Odin Project](https://www.theodinproject.com/)
-- 🌐 Comfortable with **HTML**, **CSS**, **JavaScript**, **Git**, and **MySQL**
-- 🛡️ Learning Cybersecurity via **TryHackMe** (No CTFs yet — just knowledge-focused)
-- ⚙️ Learning **DevOps** fundamentals and modern workflow practices
-- 🧪 Exploring **AI/ML** with **NumPy**, **Pandas**, and **Matplotlib**
-- 🛠️ Dabble in **Java**, **C++**, and **Python** as well
-- 📈 Always shipping side projects & open to collaboration
+-  Currently diving deep into **Full-Stack Web Development** with [The Odin Project](https://www.theodinproject.com/)
+-  Comfortable with **HTML**, **CSS**, **JavaScript**, **Git**, and **MySQL**
+-  Learning Cybersecurity via **TryHackMe** (No CTFs yet — just knowledge-focused)
+-  Learning **DevOps** fundamentals and modern workflow practices
+-  Exploring **AI/ML** with **NumPy**, **Pandas**, and **Matplotlib**
+-  Dabble in **Java**, **C++**, and **Python** as well
+-  Always shipping side projects & open to collaboration
 
 ---
 
-## 📊 GitHub Stats 
+##  GitHub Stats 
 
 <div align="center">
 
@@ -46,10 +46,10 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
 
 ---
 
-## 🌟 Open Source Contributions
+##  Open Source Contributions
 
 - 👨‍💻 Currently contributing to open source through **[Hacktoberfest 2025](https://hacktoberfest.com/)**  
-- ✅ Successfully completed my term as a **Contributor** at [GirlScript Summer of Code 2025](https://gssoc.girlscript.tech/)
+- ✅ Successfully completed my term as a **Contributor** at **[GirlScript Summer of Code 2025](https://gssoc.girlscript.tech/)**
  
 <p>
   <img src="assets/Contributor_badge.jpg" alt="GSSoC '25 Badge" width="160" height="160">
@@ -201,7 +201,7 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 - **Hacktoberfest 2025 Participant:** Contributed to various open-source projects.
 - **GSSoC 2025 Contributor:** Successfully completed the GirlScript Summer of Code program.
@@ -212,7 +212,7 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
 
 ---
 
-## 📫 Connect with me
+##  Connect with me
 
 <p align="center" style="gap: 50px; align-items: center;">
   <a href="https://www.linkedin.com/in/aryansingh006" target="_blank">
