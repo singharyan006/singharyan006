@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&vCenter=true&lines=Open+Source+Contributor;Web+Dev+%26+CS+Enthusiast;Building+cool+stuff+with+code;Always+curious%2C+always+creating)](https://git.io/typing-svg)
 
 I’m a CS undergrad who builds web apps, experiments with AI/ML, and secretly dreams in JavaScript. If it’s digital, I want to make it smoother, faster, and let’s be honest cooler.
-I’m a CS undergrad who builds web apps, experiments with AI/ML, and secretly dreams in JavaScript. If it’s digital, I want to make it smoother, faster, and let’s be honest—cooler.
+I’m a CS undergrad who builds web apps, experiments with AI/ML, and secretly dreams in JavaScript. If it’s digital, I want to make it smoother, faster, and let’s be honest cooler.
 
 Designing slick interfaces? Check. Writing code that works on the first try? Well… let’s not get ahead of ourselves. Breaking production and fixing it before anyone notices? That’s my cardio 🤧.
 
