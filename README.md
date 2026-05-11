@@ -202,13 +202,15 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
 
 ---
 
-##  Achievements
+## 🏆 Achievements
 
-- **Hacktoberfest 2025 Participant:** Contributed to various open-source projects.
-- **GSSoC 2025 Contributor:** Successfully completed the GirlScript Summer of Code program.
-- **AWS Certified Cloud Practitioner:** Validated cloud fluency with an industry-recognized credential.
-- **Hackfinity Battle Series @ TryHackMe:** Competed in a series of cybersecurity challenges.
-- **Multiple GitHub Achievements:** Including Pull Shark (x2), YOLO, and Quickdraw.
+<div align="left">
+  <p><img src="https://img.shields.io/badge/Pull%20Shark-×2-blue?style=for-the-badge&logo=github" alt="Pull Shark Badge"></p>
+  <p><img src="https://img.shields.io/badge/YOLO-Achieved-yellow?style=for-the-badge&logo=github" alt="YOLO Badge"></p>
+  <p><img src="https://img.shields.io/badge/Quickdraw-Achieved-green?style=for-the-badge&logo=github" alt="Quickdraw Badge"></p>
+  <p><img src="https://img.shields.io/badge/AWS-Cloud%20Certified-orange?style=for-the-badge&logo=amazon-aws" alt="AWS Certificate"></p>
+  <p><img src="https://img.shields.io/badge/TryHackMe-Hackfinity%20Battle%20Series-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe Badge"></p>
+</div>
 
 
 ---
