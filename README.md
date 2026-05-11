@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%2336BCF7&vCenter=true&lines=Open+Source+Contributor;Web+Dev+%26+CS+Enthusiast;Building+cool+stuff+with+code;Always+curious%2C+always+creating)](https://git.io/typing-svg)
 
-I’m a CS undergrad who builds web apps, experiments with AI/ML, and secretly dreams in JavaScript. If it’s digital, I want to make it smoother, faster, and—let’s be honest—cooler.
+I’m a CS undergrad who builds web apps, experiments with AI/ML, and secretly dreams in JavaScript. If it’s digital, I want to make it smoother, faster, and let’s be honest cooler.
 
 Designing slick interfaces? Check. Writing code that works on the first try? Well… let’s not get ahead of ourselves. Breaking production and fixing it before anyone notices? That’s my cardio 🤧.
 
@@ -203,13 +203,11 @@ When I’m not coding, I’m exploring cybersecurity rabbit holes, learning DevO
 
 ## 🏆 Achievements
 
-<div align="left">
-  <p><img src="https://img.shields.io/badge/Pull%20Shark-×2-blue?style=for-the-badge&logo=github" alt="Pull Shark Badge"></p>
-  <p><img src="https://img.shields.io/badge/YOLO-Achieved-yellow?style=for-the-badge&logo=github" alt="YOLO Badge"></p>
-  <p><img src="https://img.shields.io/badge/Quickdraw-Achieved-green?style=for-the-badge&logo=github" alt="Quickdraw Badge"></p>
-  <p><img src="https://img.shields.io/badge/AWS-Cloud%20Certified-orange?style=for-the-badge&logo=amazon-aws" alt="AWS Certificate"></p>
-  <p><img src="https://img.shields.io/badge/TryHackMe-Hackfinity%20Battle%20Series-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe Badge"></p>
-</div>
+- **Hacktoberfest 2025 Participant:** Contributed to various open-source projects.
+- **GSSoC 2025 Contributor:** Successfully completed the GirlScript Summer of Code program.
+- **AWS Certified Cloud Practitioner:** Validated cloud fluency with an industry-recognized credential.
+- **Hackfinity Battle Series @ TryHackMe:** Competed in a series of cybersecurity challenges.
+- **Multiple GitHub Achievements:** Including Pull Shark (x2), YOLO, and Quickdraw.
 
 
 ---
